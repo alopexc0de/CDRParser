@@ -1,3 +1,8 @@
+<!--
+Cisco CDR Parser v1.0
+(c) 2016 David Todd, https://github.com/alopexc0de/CDRParser
+License: MIT
+-->
 <!DOCTYPE html>
 <html ng-app="MyApp">
 <head>

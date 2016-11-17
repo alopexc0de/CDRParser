@@ -1,3 +1,8 @@
+/*
+Cisco CDR Parser v1.0
+(c) 2016 David Todd, https://github.com/alopexc0de/CDRParser
+License: MIT
+*/
 var app = angular.module('MyApp', ['ngMaterial','tableSort',]).controller('logviewer', function($scope, $http, $mdDialog){
     var tmp = [];
     var list = '[[bigData]]'; // Pull in information provided by bottle's template engine
